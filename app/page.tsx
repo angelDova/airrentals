@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import getCurrentUser from "./actions/getCurrentUser";
 import getListings, { IListingsParams } from "@/app/actions/getListings";
 
@@ -52,5 +54,3 @@ const Home = async ({ searchParams }: HomeProps) => {
 };
 
 export default Home;
-
-export const dynamic = "force-dynamic";
