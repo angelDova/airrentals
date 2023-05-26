@@ -24,6 +24,8 @@ const Home = async ({ searchParams }: HomeProps) => {
     );
   }
 
+  // test
+
   return (
     <ClientOnly>
       <Container>
