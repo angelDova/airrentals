@@ -11,7 +11,7 @@ import getCurrentUser from "./actions/getCurrentUser";
 import { Nunito } from "next/font/google";
 
 export const metadata = {
-  title: "Airbnb",
+  title: "VacayVibes",
   description: "Airbnb Clone",
 };
 
